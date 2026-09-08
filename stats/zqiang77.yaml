@@ -1,8 +1,20 @@
 username: zqiang77
-updatedAt: 2026-09-07T15:35:09.549Z
-skills: {}
+updatedAt: 2026-09-08T12:01:55.613Z
+skills:
+  ru:
+    count: 1
+    lastUsed: 2026-09-07T15:36:51.004Z
+  analyzing-ui-with-vision-for-deepseek:
+    count: 1
+    lastUsed: 2026-09-08T10:18:17.482Z
 interventions:
-  sessions: 1
-  interrupt: 0
-  toolReject: 0
+  sessions: 4
+  interrupt: 2
+  toolReject: 2
   correction: 0
+prompts: 51
+tokens:
+  input: 761161
+  output: 209
+  cacheRead: 24651904
+  cacheCreation: 0
